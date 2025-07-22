@@ -1,4 +1,4 @@
-.playerView
+/* .playerView
 {
     display: none;
 }
@@ -7,3 +7,27 @@
 {
     display: block;
 }
+
+.passage-card
+{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.choice
+{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+} */
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  input, textarea {
+    display: block;
+    margin: 5px 0;
+  }
